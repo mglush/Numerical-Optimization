@@ -1,2 +1,2 @@
-# UCSB_CS111_F21
-My work for the CS111: Numerical Optimization in Python class I took at UCSB during Fall 2021.
+# Numerical Optimization in Python
+#### By Michael Glushchenko while taking UCSB CS111 Fall2021 (Numerical Optimization).
